@@ -10,7 +10,7 @@ This project requires you to put together what you have learned in the tutorials
 Outline
 -------
 
-You will need to start MAP-Client and create a new workflow via the menu item *File|New > Workflow*. This just requires you to select a folder: create a new, empty folder, for example "femurproject" on the Desktop, and select it.
+You will need to start MAP-Client and create a new workflow via the menu item  :menuselection:`File --> New --> Workflow`. This just requires you to select a folder: create a new, empty folder, for example "femurproject" on the Desktop, and select it.
 
 At this point the MAP-Client interface will show a blank project and a list of plugins you can use, as shown in :numref:`fig_dtp_cp_blankfemurproject`:
 
