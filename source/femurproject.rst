@@ -1,18 +1,19 @@
+.. _dtp_cp_project_femurfitting:
 
-Project: Complete Workflow for the Femur
-========================================
+Project: Femur Fitting
+======================
 
 This project was created as part of the Computational Physiology module in the `MedTech CoRE 
 <http://medtech.org.nz>`_ Doctoral Training Programme. 
 
-This project requires you to put together what you have learned in the tutorials to create a customised model of the end of a femur bone by fitting it to medical images, do some computation on it and visualise the result.
+This project requires you to put together what you have learned in the tutorials to define a complete workflow which will create a customised model of the end of a femur bone by fitting it to medical images, perform some computational simulation with it and visualise the result.
 
 Outline
 -------
 
-You will need to start MAP-Client and create a new workflow via the menu item  :menuselection:`File --> New --> Workflow`. This just requires you to select a folder: create a new, empty folder, for example "femurproject" on the Desktop, and select it.
+You will need to start MAP Client and create a new workflow via the menu item  :menuselection:`File --> New --> Workflow`. This just requires you to select a folder: create a new, empty folder, for example "femurproject" on the Desktop, and select it.
 
-At this point the MAP-Client interface will show a blank project and a list of plugins you can use, as shown in :numref:`fig_dtp_cp_blankfemurproject`:
+At this point the MAP Client interface will show a blank project and a list of plugins you can use, as shown in :numref:`fig_dtp_cp_blankfemurproject`:
 
 .. _fig_dtp_cp_blankfemurproject:
 
